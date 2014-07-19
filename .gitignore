@@ -1,0 +1,6 @@
+*.[oa]
+*~
+build/
+doc/*.txt
+doc/**/*.txt
+
